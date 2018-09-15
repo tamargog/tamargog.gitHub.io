@@ -1,0 +1,19 @@
+body {
+	background-image: url(dount.jpg);
+}
+
+.btn-secondery {
+	margin-top: 450px;
+	background-color: pink;
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 180%;
+	font-stretch: extra-expanded;
+
+}
+.btn-outline-success {
+	border-color: pink;
+}
+.btn-outline-success:hover {
+	background-color: pink;
+}
